@@ -1,0 +1,19 @@
+# Runtime config written to the device filesystem - contains Hue token,
+# Web App URL, CLOCK_TOKEN and the web UI password. Never commit.
+config.json
+MyCW/data/config.json
+MyCW/data/
+secrets.h
+secrets*.json
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,4 +1,4 @@
-# Project Rules — tsp-wheel / MyCW
+# Project Rules — tsp-iot-mycw-clock
 
 กฎถาวรของโปรเจกต์ ใช้กับทุก session โดยไม่ต้องสั่งซ้ำ
 
